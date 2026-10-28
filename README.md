@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Edwin3R
-- 👀 I’m interested in starting my career in Tech. 
-- 🌱 I’m currently learning HTML and CSS. Hoping to move to Java soon...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me social media. 
+# Hi, I'm Edwin
 
-<!---
-Edwin3R/Edwin3R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+IT support professional pivoting into internal / back-office IT, IT operations, and QA.
+
+- 🎓 Google IT Support Professional Certificate (2023) · BA Economics, UC Merced
+- 🛠️ Interests: hardware & troubleshooting, home networking / DNS, automation with Google Apps Script, QA / UAT
+- 🌱 Currently building: practical small tools — inbox automation, home network inventory & cleanup, team project tracking
+- 💻 Comfortable with: HTML/CSS, Google Apps Script / JavaScript basics, Windows PC builds & repair
+- 📫 Reach me via LinkedIn: linkedin.com/in/edwin-reyes-f3pro
